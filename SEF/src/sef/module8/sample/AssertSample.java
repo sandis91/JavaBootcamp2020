@@ -6,11 +6,13 @@ public class AssertSample {
 	public static void test()
 	{
 		//1 - Type assert 5 %2 and 6%2 in separate statements
-		
+		//invalid sample
+
+
 	}
 	public static void main(String arg[]){
 		//2 - Call test()
 		
-		
+		test();
 	}			
 }
